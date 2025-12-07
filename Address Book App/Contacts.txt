@@ -1,0 +1,1 @@
+{'Aryan': {'Address': '12 Alcott Close', 'Mobile': '4546604154', 'Email': 'aryan@example.com', 'Birthday': '12.12.12'}, 'Rudhvik': {'Address': '12 Alcott Close', 'Mobile': '1225455454', 'Email': 'rudhvik@example.com', 'Birthday': '13.12.12'}}
